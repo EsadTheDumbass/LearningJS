@@ -4,7 +4,7 @@ const intrestRate = 1;
 //Cannot start with a number
 //is case sensitive
 //Cannot contain space or -
-const name = 'Esad Kocaturk';
+const name = 'Esad';
 console.log(name, '; Intrest rate is' + ' '+  intrestRate);
 const turkish = true;
 let knowDutch = false;
