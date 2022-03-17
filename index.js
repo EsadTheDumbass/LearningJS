@@ -4,7 +4,7 @@ const intrestRate = 1;
 //Cannot start with a number
 //is case sensitive
 //Cannot contain space or -
-const name = 'Esad';
+const name = 'Esad Kocaturk';
 console.log(name, '; Intrest rate is' + ' '+  intrestRate);
 const turkish = true;
 let knowDutch = false;
@@ -50,4 +50,9 @@ function calculate(number, number1) {
    var result =  number + number1;
    console.log(result);
 }
+for (var i = 0; i <= 20; i++) {
+    console.log(i)
+}
+
+
 calculate(2, 5);
