@@ -53,6 +53,14 @@ function calculate(number, number1) {
 for (var i = 0; i <= 20; i++) {
     console.log(i)
 }
-
-
+const data = JSON.stringify(names);
+console.log(data)
+var a = 0;
+do {
+    console.log(a)
+}
+while (a > 12) {
+    console.log('trollge');
+    a = a +1;
+}
 calculate(2, 5);
