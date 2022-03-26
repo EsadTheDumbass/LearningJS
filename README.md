@@ -1,2 +1,2 @@
 # LearningJS
-A public repository of my JS journey,
+A public repository of my JS journey.
